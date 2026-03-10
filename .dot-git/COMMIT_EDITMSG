@@ -1,0 +1,6 @@
+Initial Commit - Stable Build
+-----------------------------
+- Fixed login bug
+- Updated CSS
+- TODO: Remove the temporary flag CSA{git_commit_history_is_public} before the audit next week.
+- Changed API endpoint to production
